@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38648'
     url: http://www.gutenberg.org/2009/agents/38648
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37101#Humpback-Whales-in-Glacier-Bay-National-Monument-Alaska
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Mammals
